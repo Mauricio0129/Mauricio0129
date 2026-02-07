@@ -1,6 +1,6 @@
 ![Header](./ProfileHeader.png)
 
-I'm a Computer Science student specializing in backend engineering with a strong interest in cloud infrastructure and distributed systems. I love working with backend technologies, diving deep into system architecture, and building scalable, production-ready applications. I'm passionate about exploring new technologies in the infrastructure space and solving problems that require thinking about performance, scalability, and reliability
+I'm a Computer Science student specializing in backend engineering with a strong interest in cloud infrastructure and distributed systems. I love working with backend technologies, diving deep into system architecture, and building scalable, production-ready applications. I'm passionate about exploring new technologies in the infrastructure space and solving problems that require thinking about performance, scalability, and reliability.
 
 ## Tech Stack
 
@@ -18,4 +18,4 @@ I'm a Computer Science student specializing in backend engineering with a strong
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](your-linkedin-url-here)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriciomoreno01/)
