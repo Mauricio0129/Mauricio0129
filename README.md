@@ -1,4 +1,4 @@
-![Header](./Header.png)
+![Header](./ProfileHeader.png)
 
 I'm a Computer Science student at Florida International University graduating December 2026, passionate about backend engineering and distributed systems. Currently building **CodeSync**, a real-time collaborative code editor with Go and WebSockets, and seeking Summer 2026 internships at companies building scalable infrastructure.
 
@@ -15,11 +15,6 @@ I'm a Computer Science student at Florida International University graduating De
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-
-## GitHub Stats
-
-![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mauricio0129&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mauricio0129&theme=dark)
 
 ## Let's Connect
 
