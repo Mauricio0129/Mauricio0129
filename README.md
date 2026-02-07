@@ -1,6 +1,6 @@
 ![Header](./ProfileHeader.png)
 
-I'm a Computer Science student at Florida International University graduating December 2026, passionate about backend engineering and distributed systems. Currently building **CodeSync**, a real-time collaborative code editor with Go and WebSockets, and seeking Summer 2026 internships at companies building scalable infrastructure.
+I'm a Computer Science student specializing in backend engineering with a strong interest in cloud infrastructure and distributed systems. I love working with backend technologies, diving deep into system architecture, and building scalable, production-ready applications. I'm passionate about exploring new technologies in the infrastructure space and solving problems that require thinking about performance, scalability, and reliability
 
 ## Tech Stack
 
