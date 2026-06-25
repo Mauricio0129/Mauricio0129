@@ -105,20 +105,6 @@ Designed, built, and deployed production systems independently — from architec
 
 ---
 
-## ◈ Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|---------|
-| **Production Deployment** | CloudDrive live at clouddrive.world — fully provisioned on AWS with real traffic |
-| **Systems Performance** | ~79,000 req/sec on Layer 7 load balancer via lock-free Go concurrency |
-| **Security Engineering** | Implemented slowloris mitigation via adaptive read deadlines in Go proxy |
-| **CI/CD Pipeline** | Automated deployment workflows via GitHub Actions across personal projects |
-
-</div>
-
----
 
 ## ◈ Certifications
 
@@ -163,8 +149,4 @@ exploring:
 
 <p align="center">
   <sub><i>"Systems that survive production pressure aren't built by accident — they're built by engineers who understood the failure modes before writing a single line."</i></sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer&animation=fadeIn" alt="footer" />
 </p>
