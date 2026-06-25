@@ -28,7 +28,7 @@ I'm a Computer Science student specializing in backend engineering with a strong
 <p align="center"><sub><b>Cloud · DevOps · Tooling</b></sub></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=8" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,vscode&theme=dark&perline=8" alt="Tools" />
 </p>
 <p align="center"><sub><b>Tools & Workflow</b></sub></p>
 
