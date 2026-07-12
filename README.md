@@ -6,7 +6,7 @@
 
 ## ◈ About
 
-I'm a Computer Science student specializing in backend engineering with a strong interest in distributed systems and infrastructure. I enjoy working with backend technologies, diving deep into system architecture, and building production-ready applications. I'm especially drawn to the infrastructure side — how services are deployed across regions, how load gets distributed, how systems stay available when things go wrong, and how all the pieces connect. I like solving problems that require thinking about performance, reliability, and scale.
+Computer Science student focused on backend engineering, distributed systems, and cloud infrastructure. I enjoy building production-style systems, contributing to open source, and understanding how software behaves under load, failure, and scale.
 
 ---
 
